@@ -1,0 +1,30 @@
+{
+  "name": "piechart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "beefy example.js --index=example.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorribas/piechart.git"
+  },
+  "keywords": [
+    "pie",
+    "chart",
+    "piechart",
+    "graph",
+    "browser"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorribas/piechart/issues"
+  },
+  "homepage": "https://github.com/sorribas/piechart#readme",
+  "devDependencies": {
+    "beefy": "^2.1.5"
+  }
+}
