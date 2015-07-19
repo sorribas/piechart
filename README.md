@@ -3,7 +3,7 @@ piechart
 
 Piechart on an HTML canvas.
 
-[screenshot](screenshot.png)
+![screenshot](screenshot.png)
 
 Usage
 -----
