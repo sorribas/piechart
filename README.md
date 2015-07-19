@@ -5,6 +5,8 @@ Piechart on an HTML canvas.
 
 ![screenshot](screenshot.png)
 
+This module is based on this [blogpost](http://wickedlysmart.com/how-to-make-a-pie-chart-with-html5s-canvas/)
+
 Usage
 -----
 
